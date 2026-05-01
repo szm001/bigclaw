@@ -1,7 +1,7 @@
 # bigclaw
 
 ## 介绍
-### 从0到1构建Claude Code-like agent
+### 从0到1构建Harness Agent:Claude Code/openclaw/harness agent
 
 ## 快速开始
 ```sh
